@@ -7,7 +7,8 @@ An interactive development space dedicated to mastering smart contract engineeri
 ## 👥 Student & Workspace Owner
 
 * **Academic Group**: CSE - 3
-* **Lead Engineer**: Dagmawi Negussie (Student ID: `ugr/25591/14`)
+*  Dagmawi Negussie (Student ID: `ugr/25591/14`)
+*  Bethelhem Tekle (Student ID: `ugr/25509/14`)
 
 
 
