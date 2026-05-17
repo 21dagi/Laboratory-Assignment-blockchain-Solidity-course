@@ -1,0 +1,18 @@
+# Foundry/Solidity Build Outputs
+out/
+cache/
+broadcast/
+
+# Dependencies
+lib/
+node_modules/
+
+# Local Environment Variables
+.env
+.env.local
+
+# System/IDE Files
+.DS_Store
+.vscode/
+.idea/
+*.log
