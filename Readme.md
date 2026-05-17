@@ -9,6 +9,9 @@ An interactive development space dedicated to mastering smart contract engineeri
 * **Academic Group**: CSE - 3
 *  Dagmawi Negussie (Student ID: `ugr/25591/14`)
 *  Bethelhem Tekle (Student ID: `ugr/25509/14`)
+*  Yonas Sintayehu  (Student ID: `ugr/25397/14`)
+*  Kalkidan Kidane (Student ID: `ugr/25274/14`)
+*  Tsedniya Frezewed  (Student ID: ` UGR/25321/14`)
 
 
 
